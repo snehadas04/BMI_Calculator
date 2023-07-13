@@ -1,0 +1,1 @@
+weight = float(input())
